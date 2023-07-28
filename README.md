@@ -1,6 +1,7 @@
 # 16x32-Multiplexing-Led-Matrix-Display
 The AVR 16x32 Multiplexing LED Matrix Display project is an exciting and captivating initiative that brings together the power of AVR microcontrollers and the visual brilliance of a 16x32 LED matrix display. This project aims to create a versatile and eye-catching display system capable of showing dynamic graphics, animations, and scrolling text
 
+![1](https://github.com/mohamedaymankills/16-x-32-Multiplexing-Led-Matrix-Display/blob/main/images/1.jpg?raw=true)
 # Features:
 AVR Microcontroller: The project utilizes AVR microcontrollers, renowned for their reliability and versatility, to control the LED matrix display efficiently.
 
