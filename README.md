@@ -22,6 +22,7 @@ Open-Source: As an open-source project, the code, schematics, and documentation 
 # Applications:
 The AVR 16x32 Multiplexing LED Matrix Display project finds applications in various domains, including but not limited to:
 
+![2](https://github.com/mohamedaymankills/16-x-32-Multiplexing-Led-Matrix-Display/blob/main/images/2.jpg?raw=true)
 Public Signage
 Information Display Systems
 DIY Digital Art Projects
